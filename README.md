@@ -9,3 +9,4 @@ My simple neovim configuration
 - file system browser
 - lsp (python, lua, js)
 - linting + formatting (python, js)
+- auto completion + snippets
